@@ -19,7 +19,7 @@ ELABORADO POR BRAYAN GUTIERREZ RAMIREZ [@BrayanG02](https://github.com/BrayanG02
 
 # PRACTICA ALEXA SKILL DE CLIMA
 ## OBJETIVO
-Desarrollar una skill para Alexa para poder acceder al clima mediante la ubicacion
+Desarrollar una skill para Alexa que permita a los usuarios obtener información meteorológica precisa y personalizada en tiempo real, utilizando su ubicación actual o una ubicación seleccionada.
 
 # RESULTADO DE LA PRÁCTICA
 1. ![Imagen 1](Caps/1.png) 
