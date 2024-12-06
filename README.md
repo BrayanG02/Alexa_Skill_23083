@@ -3,7 +3,10 @@ Practica de la materia desarrollo móvil , para crear una skill de Alexa del cli
 
 ### AUTOR
 ELABORADO POR BRAYAN GUTIERREZ RAMIREZ [@BrayanG02](https://github.com/BrayanG02)
-
+### HISTORIAL DE TAREAS
+|NO.|NOMBRE|POTENCIADOR|ESTATUS|
+|--|--|--|--|
+|07|CONFIGURACION Y CREACION DE SKILL PARA ALEXA|6|⭐ACTIVA|
 
 <div align="center">
 <div style="display: flex; justify-content: space-between;">
